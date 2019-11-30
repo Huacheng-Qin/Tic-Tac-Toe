@@ -10,3 +10,7 @@ The players are able to choose the size of the board as well as how many pieces
 they need to connect in order to win.
 For example, the user could choose to make the board size 19x19 and require 
 5 pieces connected in a row to win, effectively turning this game into Gomoku.
+
+Instructions:
+-Use WASD or arrow keys to move the cursor position.
+-Press space or enter to comfirm
